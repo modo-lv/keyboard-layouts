@@ -1,0 +1,5 @@
+["~\n`","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0\n\n\n\n\n\n\n\n°","{\n[","}\n]",{w:2},"Backspace"],
+[{w:1.5},"Tab",{c:"#aaaaaa"},"\"\n'",{c:"#cccccc"},"<\n,",">\n.","P\np","Y\ny","F\nf","G\ng\nĢ\nģ","C\nc\nČ\nč","R\nr\nŖ\nŗ","L\nl\nĻ\nļ","?\n/","+\n=\n\n\n\n\n\n\n\n≠",{w:1.5},"|\n\\"],
+[{w:1.75},"Caps Lock","A\na\nĀ\nā","O\no\nŌ\nō","E\ne\nĒ\nē\n\n\n\n\n\n€","U\nu\nŪ\nū","I\ni\nĪ\nī","D\nd","H\nh","T\nt\n\n\n\n\n\n\n\n™","N\nn\nŅ\nņ","S\ns\nŠ\nš","_\n-\n\n\n\n\n\n\n\n—",{w:2.25},"Enter"],
+[{w:2.25},"Shift",":\n;","Q\nq","J\nj","K\nk\nĶ\nķ","X\nx\n\n\n\n\n\n\n\n×","B\nb","M\nm","W\nw","V\nv","Z\nz",{w:2.75},"Shift"],
+[{w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:6.25},"",{a:4,w:1.25},"Alt Gr",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"]
