@@ -1,5 +1,5 @@
-["~\n`","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0\n\n\n\n\n\n\n\n°","{\n[","}\n]",{w:2},"Backspace"],
-[{w:1.5},"Tab",{c:"#aaaaaa"},"\"\n'",{c:"#cccccc"},"<\n,",">\n.","P\np","Y\ny","F\nf","G\ng\nĢ\nģ","C\nc\nČ\nč","R\nr\nŖ\nŗ","L\nl\nĻ\nļ","?\n/","+\n=\n\n\n\n\n\n\n\n≠",{w:1.5},"|\n\\"],
-[{w:1.75},"Caps Lock","A\na\nĀ\nā","O\no\nŌ\nō","E\ne\nĒ\nē\n\n\n\n\n\n€","U\nu\nŪ\nū","I\ni\nĪ\nī","D\nd","H\nh","T\nt\n\n\n\n\n\n\n\n™","N\nn\nŅ\nņ","S\ns\nŠ\nš","_\n-\n\n\n\n\n\n\n\n—",{w:2.25},"Enter"],
-[{w:2.25},"Shift",":\n;","Q\nq","J\nj","K\nk\nĶ\nķ","X\nx\n\n\n\n\n\n\n\n×","B\nb","M\nm","W\nw","V\nv","Z\nz",{w:2.75},"Shift"],
+["~\n`","!\n1","@\n2","#\n3","$\n4\n\n€","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0\n\n°","{\n[","}\n]",{w:2},"Backspace"],
+[{w:1.5},"Tab",{c:"#aaaaaa"},"\"\n'",{c:"#cccccc"},"<\n,",">\n.","P\np","Y\ny","F\nf","G\ng\n\n\n\n\n\n\nĢ\n\nģ","C\nc\n\n\n\n\n\n\nČ\n\nč","R\nr\n\n\n\n\n\n\nŖ\n\nŗ","L\nl\n\n\n\n\n\n\nĻ\n\nļ","?\n/","+\n=\n\n≠",{w:1.5},"|\n\\"],
+[{w:1.75},"Caps Lock","A\na\n\n\n\n\n\n\nĀ\n\nā","O\no\n\n\n\n\n\n\nŌ\n\nō","E\ne\n\n\n\n\n\n\nĒ\n\nē","U\nu\n\n\n\n\n\n\nŪ\n\nū","I\ni\n\n\n\n\n\n\nĪ\n\nī","D\nd","H\nh","T\nt\n\n™","N\nn\n\n\n\n\n\n\nŅ\n\nņ","S\ns\n\n\n\n\n\n\nŠ\n\nš","_\n-\n\n—",{w:2.25},"Enter"],
+[{w:2.25},"Shift",":\n;","Q\nq","J\nj","K\nk\n\n\n\n\n\n\nĶ\n\nķ","X\nx\n\n×","B\nb","M\nm","W\nw","V\nv","Z\nz",{w:2.75},"Shift"],
 [{w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:6.25},"",{a:4,w:1.25},"Alt Gr",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"]
