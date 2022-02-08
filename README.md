@@ -13,6 +13,7 @@ Lietošana/nianses:
   * `Shift`+`'` nav mēmais taustiņš (t.i., uzreiz raksīs `"`)
 * Īpašos simbolus (attēlos uz taustiņa labajā pusē) var dabūt, pieturot `Alt Gr` (pa labi no `Space`)
   * Visos izkārtojumos šādi ir pieejami simboli: `°`, `—`, `≠`, `€`, `™` un `×`.
+  * `Alt Gr`+`Space` ieliks atstarpi, kas atdala vārdus, bet netiek ņemta vērā pārnešanai jaunā rindā
 * Decimālais atdalītājs ir punkts.
 
 
